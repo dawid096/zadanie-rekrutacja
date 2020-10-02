@@ -1,0 +1,49 @@
+{
+	"productsInBasket": [
+		{
+			"id": 1,
+			"name": "Produkt 1",
+			"price": "49.99",
+			"regulations": [
+				{
+					"id": 1,
+					"name": "Regulamin 1"
+				},
+				{
+					"id": 2,
+					"name": "Regulamin 2"
+				},
+				{
+					"id": 3,
+					"name": "Regulamin 3"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "Produkt 2",
+			"price": "149.99",
+			"regulations": [
+				{
+					"id": 1,
+					"name": "Regulamin 1"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"name": "Produkt 3",
+			"price": "199.99",
+			"regulations": [
+				{
+					"id": 1,
+					"name": "Regulamin 1"
+				},
+				{
+					"id": 2,
+					"name": "Regulamin 2"
+				}
+			]
+		}
+	]
+}
